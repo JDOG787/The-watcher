@@ -1,4 +1,4 @@
-const embed = require("../utils/embed");
+const { embed } = require("../utils/embed");
 
 module.exports = {
     name: "help",
